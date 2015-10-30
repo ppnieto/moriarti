@@ -1,0 +1,9 @@
+{
+  "name":"bd",
+  "data": {
+    "host":"localhost",
+    "database":"test",
+    "user":"test",
+    "password":"test"
+  }
+}

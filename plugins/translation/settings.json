@@ -1,0 +1,32 @@
+{
+  "name":"template-translation",
+  "enabled":true,
+  "data": {
+    "translations": {
+      "es":{
+        "SITE_NAME": "SITIO_WEB",
+        "Control Panel": "Panel de Control",
+        "Profile": "Pefil",
+        "Member" : "Miembro",
+        "Member since" : "Miembro desde",
+        "Logout" : "Salir",
+        "User profile" : "Perfil de usuario",
+        "Settings" : "Ajustes"                
+      },
+      "es/login": {
+        "Admin" :"Sitio",
+        "LTE" : "WEB",
+        "Log in" :          "Entrar",
+        "Sign In" :         "Entrar",
+        "Remember Me" :     "Recordarme",
+        "Sign in to start your session" : "Identifíquese para iniciar sesión",
+        "I forgot my password" : "Olvidé mi contraseña",
+        "Register a new membership" : "Regístrese como nuevo usuario",
+        "User or password incorrect" : "Usuario o contraseña incorrectos"
+      },
+      "es/profile": {
+        "Activity": "Actividad"
+      }
+    }
+  }
+}

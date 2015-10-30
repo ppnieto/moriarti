@@ -1,0 +1,6 @@
+{
+  "name":"firewall",
+  "data":{
+    "exclude":["login","500","logout","index",""]
+  }
+}
